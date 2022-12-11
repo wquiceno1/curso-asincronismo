@@ -4,7 +4,7 @@
   "description": "curso de sincronismo de javascript de platzi",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "keywords": [
     "javascript",
@@ -14,5 +14,6 @@
   "license": "MIT",
   "dependencies": {
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
